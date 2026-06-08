@@ -31,7 +31,7 @@ Playwright automation framework covering document management UI workflows, multi
 
 ---
 
-### [jonas-reporter](https://github.com/iqrarrizvi/jonas-reporter)
+### [query-report-builder](https://github.com/iqrarrizvi/query-report-builder)
 Node.js web app that queries a SQL Server data warehouse and generates formatted Excel reports via ExcelJS. Supports 10 configurable report types with a browser-based UI.
 
 **Stack:** Node.js · Express · SQL Server · ExcelJS · dotenv
