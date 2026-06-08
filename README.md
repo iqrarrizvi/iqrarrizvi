@@ -24,7 +24,7 @@ QA Analyst transitioning into QA Automation Engineering. I build test frameworks
 
 ## Featured Projects
 
-### [playwright-e2e-suite](https://github.com/iqrarrizvi/playwright-e2e-suite)
+### playwright-e2e-suite *(available on request)*
 Playwright automation framework covering document management UI workflows, multi-user approval flows, and API contract tests. Structured with Page Object Model, reusable helpers, and an Azure Pipelines CI config.
 
 **Stack:** Playwright · Node.js · Azure DevOps · pdf2json · Tesseract.js · mssql
