@@ -1,0 +1,58 @@
+# Iqrar Rizvi
+
+QA Analyst transitioning into QA Automation Engineering. I build test frameworks, automate reporting workflows, and write structured end-to-end test coverage across UI, API, and multi-user flows.
+
+---
+
+## Tech Stack
+
+**Test Automation**
+- Playwright (JavaScript / TypeScript) — E2E, API, multi-user flows
+- Page Object Model, reusable action helpers, custom assertions
+
+**Backend / Scripting**
+- Node.js, Express
+- PowerShell — document and report generation via COM automation
+- SQL Server — query-driven reporting and data validation
+
+**CI/CD & Tooling**
+- Azure DevOps Pipelines — YAML pipeline authoring, artifact publishing, JUnit results
+- GitHub Actions
+- dotenv — credential management via environment variables
+
+---
+
+## Featured Projects
+
+### [playwright-e2e-suite](https://github.com/iqrarrizvi/playwright-e2e-suite)
+Playwright automation framework covering document management UI workflows, multi-user approval flows, and API contract tests. Structured with Page Object Model, reusable helpers, and an Azure Pipelines CI config.
+
+**Stack:** Playwright · Node.js · Azure DevOps · pdf2json · Tesseract.js · mssql
+
+---
+
+### [jonas-reporter](https://github.com/iqrarrizvi/jonas-reporter)
+Node.js web app that queries a SQL Server data warehouse and generates formatted Excel reports via ExcelJS. Supports 10 configurable report types with a browser-based UI.
+
+**Stack:** Node.js · Express · SQL Server · ExcelJS · dotenv
+
+---
+
+## Currently Building
+
+Working through a QA portfolio series — each repo below demonstrates a different layer of test engineering:
+
+| Repo | Focus |
+|---|---|
+| `playwright-demo-suite` | Playwright on a public demo app — runnable by anyone |
+| `api-test-suite` | REST API testing — auth, CRUD, schema validation |
+| `accessibility-test-suite` | Playwright + axe-core WCAG compliance checks |
+| `multi-user-flow-patterns` | Parallel browser context patterns for multi-user workflows |
+| `k6-load-test-templates` | k6 performance scripts — ramp, spike, soak |
+| `bdd-playwright-demo` | Playwright + Cucumber BDD — feature files to execution |
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/iqrar-rizvi)
