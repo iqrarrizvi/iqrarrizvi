@@ -24,6 +24,13 @@ QA Analyst transitioning into QA Automation Engineering. I build test frameworks
 
 ## Featured Projects
 
+### [playwright-demo-suite](https://github.com/iqrarrizvi/playwright-demo-suite)
+Playwright E2E suite targeting a public demo storefront — 14 tests covering login, inventory, cart, and full checkout. Page Object Model with a reusable action dispatcher. GitHub Actions CI badge reflects live test results.
+
+**Stack:** Playwright · Node.js · GitHub Actions
+
+---
+
 ### playwright-e2e-suite *(available on request)*
 Playwright automation framework covering document management UI workflows, multi-user approval flows, and API contract tests. Structured with Page Object Model, reusable helpers, and an Azure Pipelines CI config.
 
