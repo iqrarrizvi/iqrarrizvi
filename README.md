@@ -56,8 +56,8 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`postman-api-collection`](https://github.com/iqrarrizvi/postman-api-collection) | Same API coverage via Postman + Newman CI |
 | [`accessibility-test-suite`](https://github.com/iqrarrizvi/accessibility-test-suite) | Playwright + axe-core WCAG 2.1 AA compliance checks |
 | [`multi-user-flow-patterns`](https://github.com/iqrarrizvi/multi-user-flow-patterns) | Parallel browser context patterns — concurrent sessions, cart isolation, simultaneous checkout |
-| `k6-load-test-templates` | k6 performance scripts — ramp, spike, soak |
-| `bdd-playwright-demo` | Playwright + Cucumber BDD — feature files to execution |
+| [`k6-load-test-templates`](https://github.com/iqrarrizvi/k6-load-test-templates) | k6 performance scripts — ramp, spike, soak with CI-aware durations |
+| [`bdd-playwright-demo`](https://github.com/iqrarrizvi/bdd-playwright-demo) | Playwright + Cucumber BDD — Gherkin feature files wired to Page Objects |
 
 ---
 
