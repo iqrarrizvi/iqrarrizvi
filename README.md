@@ -54,7 +54,7 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`playwright-demo-suite`](https://github.com/iqrarrizvi/playwright-demo-suite) | Playwright on a public demo app — runnable by anyone |
 | [`api-test-suite`](https://github.com/iqrarrizvi/api-test-suite) | REST API testing — auth, CRUD, schema validation (Playwright) |
 | [`postman-api-collection`](https://github.com/iqrarrizvi/postman-api-collection) | Same API coverage via Postman + Newman CI |
-| `accessibility-test-suite` | Playwright + axe-core WCAG compliance checks |
+| [`accessibility-test-suite`](https://github.com/iqrarrizvi/accessibility-test-suite) | Playwright + axe-core WCAG 2.1 AA compliance checks |
 | `multi-user-flow-patterns` | Parallel browser context patterns for multi-user workflows |
 | `k6-load-test-templates` | k6 performance scripts — ramp, spike, soak |
 | `bdd-playwright-demo` | Playwright + Cucumber BDD — feature files to execution |
