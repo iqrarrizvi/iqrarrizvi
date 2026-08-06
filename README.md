@@ -7,8 +7,16 @@ QA Analyst transitioning into QA Automation Engineering. I build test frameworks
 ## Tech Stack
 
 **Test Automation**
-- Playwright (JavaScript / TypeScript) — E2E, API, multi-user flows
+- Playwright (JavaScript / TypeScript) — E2E, API, multi-user flows, visual regression
 - Page Object Model, reusable action helpers, custom assertions
+- Cucumber / Gherkin — BDD feature files wired to Playwright step definitions
+- axe-core — WCAG 2.1 AA accessibility scanning
+- k6 — performance load testing (ramp, spike, soak patterns)
+- Pact.js — consumer-driven contract testing
+
+**AI & Test Data**
+- Claude API (`@anthropic-ai/sdk`) — AI-assisted test generation
+- faker.js — programmatic test data generation (JSON / CSV / SQL export)
 
 **Backend / Scripting**
 - Node.js, Express
@@ -17,7 +25,7 @@ QA Analyst transitioning into QA Automation Engineering. I build test frameworks
 
 **CI/CD & Tooling**
 - Azure DevOps Pipelines — YAML pipeline authoring, artifact publishing, JUnit results
-- GitHub Actions
+- GitHub Actions — smoke → gates → regression workflows, k6 load tests, contract artifact sharing
 - dotenv — credential management via environment variables
 
 ---
@@ -58,6 +66,11 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`multi-user-flow-patterns`](https://github.com/iqrarrizvi/multi-user-flow-patterns) | Parallel browser context patterns — concurrent sessions, cart isolation, simultaneous checkout |
 | [`k6-load-test-templates`](https://github.com/iqrarrizvi/k6-load-test-templates) | k6 performance scripts — ramp, spike, soak with CI-aware durations |
 | [`bdd-playwright-demo`](https://github.com/iqrarrizvi/bdd-playwright-demo) | Playwright + Cucumber BDD — Gherkin feature files wired to Page Objects |
+| [`ai-test-generator`](https://github.com/iqrarrizvi/ai-test-generator) | CLI tool that generates Playwright test files from plain-English feature descriptions using the Claude API |
+| [`visual-regression-suite`](https://github.com/iqrarrizvi/visual-regression-suite) | Playwright pixel-level visual regression — detects unintended UI changes across releases |
+| [`test-data-factory`](https://github.com/iqrarrizvi/test-data-factory) | CLI test data generator using faker.js — exports to JSON, CSV, or SQL INSERT statements |
+| [`contract-testing-demo`](https://github.com/iqrarrizvi/contract-testing-demo) | Consumer-driven contract testing with Pact.js — frontend contracts verified against a live REST API provider |
+| [`qa-for-ai-features`](https://github.com/iqrarrizvi/qa-for-ai-features) | QA patterns for AI features — response schema, latency SLAs, content safety, and guardrail validation |
 
 ---
 
