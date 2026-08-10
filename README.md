@@ -75,6 +75,7 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`test-results-dashboard`](https://github.com/iqrarrizvi/test-results-dashboard) | React dashboard that visualises Playwright JSON reports — suite charts, slowest tests, searchable test list |
 | [`security-test-patterns`](https://github.com/iqrarrizvi/security-test-patterns) | OWASP Top 10 security patterns in Playwright — header checks, XSS/injection, auth bypass, sensitive data exposure |
 | [`mutation-testing-demo`](https://github.com/iqrarrizvi/mutation-testing-demo) | Stryker mutation testing on a shopping cart module — 221 mutants, 89% mutation score, surviving mutants documented |
+| [`graphql-test-suite`](https://github.com/iqrarrizvi/graphql-test-suite) | Playwright API tests for GraphQL — queries, variables, filtering, errors, introspection; includes a self-contained mock server |
 
 ---
 
