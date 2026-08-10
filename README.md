@@ -71,6 +71,7 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`test-data-factory`](https://github.com/iqrarrizvi/test-data-factory) | CLI test data generator using faker.js — exports to JSON, CSV, or SQL INSERT statements |
 | [`contract-testing-demo`](https://github.com/iqrarrizvi/contract-testing-demo) | Consumer-driven contract testing with Pact.js — frontend contracts verified against a live REST API provider |
 | [`qa-for-ai-features`](https://github.com/iqrarrizvi/qa-for-ai-features) | QA patterns for AI features — response schema, latency SLAs, content safety, and guardrail validation |
+| [`qa-practice-api`](https://github.com/iqrarrizvi/qa-practice-api) | Purpose-built REST API (auth, users, products, orders) with 32 Playwright API tests — built to be tested |
 
 ---
 
