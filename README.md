@@ -72,6 +72,7 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`contract-testing-demo`](https://github.com/iqrarrizvi/contract-testing-demo) | Consumer-driven contract testing with Pact.js — frontend contracts verified against a live REST API provider |
 | [`qa-for-ai-features`](https://github.com/iqrarrizvi/qa-for-ai-features) | QA patterns for AI features — response schema, latency SLAs, content safety, and guardrail validation |
 | [`qa-practice-api`](https://github.com/iqrarrizvi/qa-practice-api) | Purpose-built REST API (auth, users, products, orders) with 32 Playwright API tests — built to be tested |
+| [`test-results-dashboard`](https://github.com/iqrarrizvi/test-results-dashboard) | React dashboard that visualises Playwright JSON reports — suite charts, slowest tests, searchable test list |
 
 ---
 
