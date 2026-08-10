@@ -76,6 +76,7 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`security-test-patterns`](https://github.com/iqrarrizvi/security-test-patterns) | OWASP Top 10 security patterns in Playwright — header checks, XSS/injection, auth bypass, sensitive data exposure |
 | [`mutation-testing-demo`](https://github.com/iqrarrizvi/mutation-testing-demo) | Stryker mutation testing on a shopping cart module — 221 mutants, 89% mutation score, surviving mutants documented |
 | [`graphql-test-suite`](https://github.com/iqrarrizvi/graphql-test-suite) | Playwright API tests for GraphQL — queries, variables, filtering, errors, introspection; includes a self-contained mock server |
+| [`pokemon-type-calculator`](https://github.com/iqrarrizvi/pokemon-type-calculator) | React/Vite app implementing the Gen 9 Pokémon type chart — 152 Vitest unit tests, 13 Playwright E2E tests, GitHub Pages deploy |
 
 ---
 
