@@ -79,6 +79,8 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`pokemon-type-calculator`](https://github.com/iqrarrizvi/pokemon-type-calculator) | React/Vite app implementing the Gen 9 Pokémon type chart — 152 Vitest unit tests, 13 Playwright E2E tests, GitHub Pages deploy |
 | [`ff-gacha-simulator`](https://github.com/iqrarrizvi/ff-gacha-simulator) | Final Fantasy-inspired gacha simulator — pull engine with pity system, rate-up banner, 22 Vitest unit tests, 11 Playwright E2E tests |
 | [`cicd-pipeline-demo`](https://github.com/iqrarrizvi/cicd-pipeline-demo) | Same 5-stage pipeline on 3 platforms — GitHub Actions, GitLab CI, and Azure DevOps; lint → unit-test → integration-test → artifact → deploy; 39 Jest + 14 Playwright tests |
+| [`matrix-build-demo`](https://github.com/iqrarrizvi/matrix-build-demo) | Matrix CI builds — same test suite run across Node 18/20/22 and Ubuntu/macOS/Windows simultaneously; 99 Jest tests; GitHub Actions, GitLab CI, and Azure DevOps configs |
+| [`pipeline-templates-demo`](https://github.com/iqrarrizvi/pipeline-templates-demo) | Reusable pipeline templates — Azure DevOps steps/jobs/stages templates, GitHub reusable workflows, GitLab includes; deployment lifecycle hooks (preDeploy, deploy, routeTraffic, postRouteTraffic); 28 Jest tests |
 
 ---
 
