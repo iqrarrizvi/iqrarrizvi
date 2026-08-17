@@ -78,6 +78,7 @@ Working through a QA portfolio series — each repo below demonstrates a differe
 | [`graphql-test-suite`](https://github.com/iqrarrizvi/graphql-test-suite) | Playwright API tests for GraphQL — queries, variables, filtering, errors, introspection; includes a self-contained mock server |
 | [`pokemon-type-calculator`](https://github.com/iqrarrizvi/pokemon-type-calculator) | React/Vite app implementing the Gen 9 Pokémon type chart — 152 Vitest unit tests, 13 Playwright E2E tests, GitHub Pages deploy |
 | [`ff-gacha-simulator`](https://github.com/iqrarrizvi/ff-gacha-simulator) | Final Fantasy-inspired gacha simulator — pull engine with pity system, rate-up banner, 22 Vitest unit tests, 11 Playwright E2E tests |
+| [`cicd-pipeline-demo`](https://github.com/iqrarrizvi/cicd-pipeline-demo) | 5-stage GitHub Actions CI/CD pipeline — lint → unit-test → integration-test → build artifact → environment-gated deploy; 39 Jest + 14 Playwright tests |
 
 ---
 
